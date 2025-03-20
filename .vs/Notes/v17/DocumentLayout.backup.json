@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miste\\source\\repos\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|c:\\users\\miste\\source\\repos\\notes\\notes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|solutionrelative:notes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|C:\\Users\\miste\\source\\repos\\Notes\\notes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|solutionrelative:notes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|C:\\Users\\miste\\source\\repos\\Notes\\notes\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D609A2-C231-45B1-8575-D49F13477FBB}|Notes\\Notes.csproj|solutionrelative:notes\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Notes\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.Designer.cs",
+              "RelativeToolTip": "Notes\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAcwBQBAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:24:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.cs",
+              "RelativeDocumentMoniker": "Notes\\MainForm.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.cs",
+              "RelativeToolTip": "Notes\\MainForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:16:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.cs",
+              "RelativeDocumentMoniker": "Notes\\MainForm.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\Notes\\Notes\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Notes\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:09:33.736Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
