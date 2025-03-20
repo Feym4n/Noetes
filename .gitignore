@@ -1,0 +1,25 @@
+   # Visual Studio files
+   .vs/
+   *.user
+   *.suo
+   *.cache
+   
+   # Build results
+   bin/
+   obj/
+   
+   # Visual Studio cache/options directory
+   .vs/
+   
+   # ReSharper
+   _ReSharper*/
+   
+   # User-specific files
+   *.rsuser
+   *.suo
+   *.user
+   *.userosscache
+   *.sln.docstates
+   
+   # User-specific files (MonoDevelop/Xamarin Studio)
+   *.userprefs
