@@ -13,8 +13,8 @@
 
    ## Требования
 
-   - .NET 6.0 или выше
-   - Windows Forms
+  - Windows 7 SP1 или выше
+  - .NET Framework 4.7.2 или выше
 
    ## Установка
 
